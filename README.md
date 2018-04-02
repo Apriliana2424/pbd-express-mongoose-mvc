@@ -1,10 +1,10 @@
 ##**Membuat database menggunakan MongoDB**
 ====================
 
-*Cara menggunakan MongoDB untuk membuat database :*
-*Pertama untuk dapat menjalankan mongodb kita harus masuk pada direktori mongodb setelah menginstallnya.*
-*Setelah menginstal mongodb maka kita buka mongodb dalam CMD.*
-*Pertama-tama buka mongodb\bin dalam CMD.*
+*Cara menggunakan MongoDB untuk membuat database :
+Pertama untuk dapat menjalankan mongodb kita harus masuk pada direktori mongodb setelah menginstallnya.
+Setelah menginstal mongodb maka kita buka mongodb dalam CMD.
+Pertama-tama buka mongodb\bin dalam CMD.*
 ---
 ![Image](1.png)
 
