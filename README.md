@@ -5,13 +5,13 @@
 Pertama untuk dapat menjalankan mongodb kita harus masuk pada direktori mongodb setelah menginstallnya.
 Setelah menginstal mongodb maka kita buka mongodb dalam CMD.
 Pertama-tama buka mongodb\bin dalam CMD.**
-
+---
 ![Image](1.png)
 
 
 **Jika sudah masuk dalam folder kita mengetikkan perintah seperti dibawah ini mongod.exe –dbpath=C:\mongodb\data**
 untuk dapat mengaktifkan server.
-
+---
 ![Image](2.png)
 
 *Karena ketika dijalankan terjadi error dengan terdapat tanda rc100 maka untuk dapat menambahkan perintah*
