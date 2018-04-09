@@ -10,7 +10,7 @@ Pertama-tama buka mongodb\bin dalam CMD.**
 
 
 **Jika sudah masuk dalam folder kita mengetikkan perintah seperti dibawah ini mongod.exe –dbpath=C:\mongodb\data**
-**untuk dapat mengaktifkan server.**
+untuk dapat mengaktifkan server.
 
 ![Image](2.png)
 
